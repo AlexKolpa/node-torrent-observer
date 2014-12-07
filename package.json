@@ -21,6 +21,9 @@
     "url": "https://github.com/AlexKolpa/node-torrent-observer/issues"
   },
   "dependencies": {
-    "socket.io": "~1.2.1"
+    "body-parser": "^1.10.0",
+    "express": "^4.10.4",
+    "oauth2-server": "^2.3.0",
+    "pg": "^4.1.0"
   }
 }
